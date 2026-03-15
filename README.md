@@ -22,7 +22,7 @@ The main objectives of this project are:
 
 ## Dataset
 
-The dataset used in this project was obtained from **Kaggle** and contains wine information scraped from **Majestic Wine**, a UK wine retailer.
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/elvinrustam/wine-dataset/data) and contains wine information scraped from **Majestic Wine**, a UK wine retailer.
 
 The dataset includes attributes such as:
 
